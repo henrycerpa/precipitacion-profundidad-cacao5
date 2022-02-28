@@ -1,6 +1,4 @@
-# PYTHON BASICO 
-## PRACTICA 4
-## Estudio de condiciones para plantaciones de cacao
+# Estudio de condiciones para plantaciones de cacao
 
 En el año 2015, los líderes mundiales adoptaron un conjunto de objetivos globales para erradicar la pobreza, proteger el planeta y asegurar la prosperidad para todos como parte de una nueva agenda de desarrollo sostenible. Para el 2030, se busca luchar contra la desertificación, rehabilitar las tierras y los suelos degradados, incluidas de las tierras afectadas por la desertificación, la sequía y las inundaciones, y procurar lograr un mundo con una degradación neutra del suelo.
 
